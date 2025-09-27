@@ -72,7 +72,6 @@ Note: My initial API key was invalid, causing "Pending LLM Title." Use a valid k
 
 Run the App:streamlit run app.py
 
-The app runs at http://localhost:8501, with sql_agent.py handling SQL query generation in the background.
 
 💻 Usage
 
