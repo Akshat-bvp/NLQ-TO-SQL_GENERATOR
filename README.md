@@ -48,11 +48,6 @@ Python Proficiency: Streamlit for UI, LangChain in sql_agent.py for AI reasoning
 Problem-Solving: Overcame persistence, UI, and API challenges through iteration.
 Portfolio Edge: Combines analytics with Gen AI, a unique angle for analyst roles.
 
-🖥️ Setup Instructions
-
-Clone the Repository:git clone https://github.com/yourusername/nlq-to-sql-generator.git
-cd nlq-to-sql-generator
-
 
 Install Dependencies:pip install -r requirements.txt
 
